@@ -1,2 +1,18 @@
 
 
+
+User -  Create a question with multiple choice and when user select a answer it will give option to create another relevant question
+
+1st question has options
+    a: laptop, b: mobile, c: bag, d: watch
+    user selected - a 
+
+    what is the brand ?
+        a: ram, b: price, c: model, d: warrenty
+
+        user selected price 
+            a: usd, b: inr, c: gbr, d: yen
+
+
+
+
